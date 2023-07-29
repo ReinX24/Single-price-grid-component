@@ -29,14 +29,17 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshots](./screenshot.jpg)
+![Screenshots folder](/screenshots)
 
-// TODO: add photos here
+#### Desktop
+![desktop screenshot](https://github.com/ReinX24/Single-price-grid-component/blob/main/screenshots/cardDesktop.png)
+#### Mobile
+![mobile screenshot](https://github.com/ReinX24/Single-price-grid-component/blob/main/screenshots/cardMobile.png)
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/ReinX24/Single-price-grid-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://reinx24.github.io/Single-price-grid-component/)
 
 ## My process
 
